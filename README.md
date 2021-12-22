@@ -1,1 +1,1 @@
-# Proyecto_vision_artificial
+# Evaluación de las relevancia socialy científica de las tesis de pregrado
