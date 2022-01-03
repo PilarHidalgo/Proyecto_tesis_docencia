@@ -1,1 +1,1 @@
-# Evaluación de las relevancia socialy científica de las tesis de pregrado
+# Evaluación de las relevancia social y científica de las tesis de pregrado
